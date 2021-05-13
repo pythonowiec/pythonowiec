@@ -1,6 +1,6 @@
 ### Hi there 👋
-# Hi I'm Jakub and I'm 17 years old.
-I'm currently learning laravel framework.
+# I'm Jakub and I'm 17 years old.
+## I'm currently learning laravel framework.
 <!--
 **pythonowiec/pythonowiec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
